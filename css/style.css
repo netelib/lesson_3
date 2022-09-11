@@ -1,0 +1,30 @@
+header{
+    color: blueviolet;
+}
+main{
+    color: blue;
+}
+#top{
+    color: black;
+}
+.text ul {
+    color: brown;
+}
+.red{
+   color: red;
+}
+.green{
+    color: green;
+}
+h2{
+    color: black;
+}
+.live a{
+    color: yellow;
+}
+.live >{
+    color: yellow;
+}
+p a{
+    color: olive;
+}
